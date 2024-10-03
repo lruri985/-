@@ -69,12 +69,12 @@
 描述：以kaggle經典題目做實作KNN、Random Forest等機器學習分類器。
 
 分工：獨自完成
-- K-Mean鳶尾花[Python](機器學習/K-mean-鳶尾花.py)🐍
-- K-Mean手寫數字[Python](機器學習/K-mean-手寫數字.py)🐍
-- KNN分類器-乳癌機率[Python](機器學習/KNN分類器-乳癌機率.py)🐍
-- 線性迴歸模型-波士頓房價[Python](機器學習/線性迴歸模型-波士頓房價.py)🐍
-- 決策樹分類器-傑克蘿絲生存率[Python](機器學習/決策樹分類器-傑克蘿絲生存率.py)🐍
-- LogisticRegression-傑克蘿絲生存率[Python](機器學習/LogisticRegression-傑克蘿絲生存率.py)🐍
+- [K-Mean鳶尾花(Python)](機器學習/K-mean-鳶尾花.py)🐍
+- [K-Mean手寫數字(Python)](機器學習/K-mean-手寫數字.py)🐍
+- [KNN分類器-乳癌機率(Python)](機器學習/KNN分類器-乳癌機率.py)🐍
+- [線性迴歸模型-波士頓房價(Python)](機器學習/線性迴歸模型-波士頓房價.py)🐍
+- [決策樹分類器-傑克蘿絲生存率(Python)](機器學習/決策樹分類器-傑克蘿絲生存率.py)🐍
+- [LogisticRegression-傑克蘿絲生存率(Python)](機器學習/LogisticRegression-傑克蘿絲生存率.py)🐍
 
 ### [巨量資料與金融科技實務] 以動能因子運用AI機器學習來建構市場投資組合
 描述：用線性迴歸、隨機森林、類神經網路計算不同投資組合報酬率與台灣指數做比較。
