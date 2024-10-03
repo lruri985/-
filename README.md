@@ -100,7 +100,7 @@
 
 分工：爬蟲文本資料處理、程式撰寫
 - [簡報](link-to-pdf)📄
-- [爬蟲Python](link-to-python)🐍
+- [Python](link-to-python)🐍
 
 ### [多變量分析] 健康管理與活動狀態分析
 描述：利用GARMIN運動手錶蒐集日常運動資料做主成分分析。
